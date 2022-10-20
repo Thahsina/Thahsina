@@ -1,4 +1,4 @@
-<h3> < Hello world, I'm <a href="https://www.linkedin.com/in/thahsina/" target="_blank"> Thahsina</a> />
+Y<h3> < Hello world, I'm <a href="https://www.linkedin.com/in/thahsina/" target="_blank"> Thahsina</a> />
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thahsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thahsina" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thahsina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
